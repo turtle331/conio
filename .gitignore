@@ -1,0 +1,10 @@
+.vs/
+Debug/
+conio.sln
+conio/Debug/
+conio/conio.vcxproj
+conio/conio.vcxproj.filters
+conio/conio.vcxproj.user
+conio/stdafx.cpp
+conio/stdafx.h
+conio/targetver.h
